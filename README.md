@@ -1,6 +1,6 @@
 This is the libMF source files with comments in **Chinese**.
 
-The version of source files is **v1.0**.
+The version of libMF source files is **libmf-1.0**.
 
 The libMF official website is
 [http://www.csie.ntu.edu.tw/~cjlin/libmf](http://www.csie.ntu.edu.tw/~cjlin/libmf).
